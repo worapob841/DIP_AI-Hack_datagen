@@ -1,0 +1,5 @@
+**/checkpoint*/
+IM_Train/
+**/*.png
+
+*.pyc
